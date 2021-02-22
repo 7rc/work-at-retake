@@ -1,15 +1,18 @@
-#  Oportunidade - Desenvolvedor Python Pleno (Remoto)
-Buscamos um Desenvolvedor Pleno para entrar no nosso time de desenvolvimento.
+#  Oportunidade - Desenvolvedor Python Pleno/Sênior (Remoto)
+
+Estamos com 5 oportunidades abertas para desenvolvedores de nível Pleno/Sênior ingressarem no nosso time de desenvolvimento.
 
 A Retake é uma empresa que presta serviços na área de insolvência de grandes carteiras, aliando tecnologia e uma equipe altamente especializada para atuar desde a prevenção e monitoramento da inadimplência até a efetiva gestão das etapas da recuperação de crédito.
 
 ## REQUISITOS E HABILIDADES
-* Bons conhecimentos de tecnologias de Frontend (HTML, CSS e JS);
-* Domínio do GIT;
-* Experiência com testes automatizados;
+* Mínimo de 3 anos de experiência com desenvolvimento WEB;
+* Experiência com Python;
 * Experiência com o framework Django;
+* Bons conhecimentos de tecnologias de Frontend (HTML, CSS e JS);
+* Experiência com GIT;
+* Experiência com testes automatizados;
 * Experiência com Celery;
-* Conhecimentos sobre  Docker;
+* Conhecimentos sobre Docker;
 * Experiência com desenvolvimento de APIs;
 * Ter autonomia e comprometimento com suas tarefas;
 * Boa capacidade de aprendizado e adaptação para novas tecnologias;
@@ -21,6 +24,14 @@ A Retake é uma empresa que presta serviços na área de insolvência de grandes
 * Experiência com software para escritórios de Advocacia;
 * Domínio do idioma Inglês;
 * Experiência com trabalho remoto;
+
+## REMUNERAÇÃO E BENEFÍCIOS
+* Trabalho Remoto;
+* R$ 6.000,00 ~ R$ 13.000,00;
+* Regime: PJ;
+* Possibilidade de Stock Options;
+* Horários Flexíveis;
+* Incentivos para cursos, certificações e participação em eventos;
 
 ## PROCESSO SELETIVO
 1. Candidate-se
