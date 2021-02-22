@@ -1,4 +1,4 @@
-#  Oportunidade - Desenvolvedor Python Pleno/Sênior (Remoto)
+#  Oportunidades Abertas para Desenvolvedores Python Pleno/Sênior (Remoto)
 
 Estamos com 5 oportunidades abertas para desenvolvedores de nível Pleno/Sênior ingressarem no nosso time de desenvolvimento.
 
